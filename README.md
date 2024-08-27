@@ -32,3 +32,12 @@ Soy un científico de datos comprometido con la excelencia, dedicado a mejorar c
 ## Contacto
 Si estás interesado en trabajar conmigo o tienes alguna pregunta, no dudes en contactarme:<br>
 ![](https://img.shields.io/badge/Email-yeraym21m%40gmail.com-lightgrey?style=for-the-badge&logo=gmail)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/yerayM21">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yerayM21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yerayM21&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
