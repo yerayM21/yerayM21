@@ -4,16 +4,30 @@
 <img src="https://i.imgur.com/ITzWwX3.jpeg">
 
 ## Sobre mí
-Desde mi formación académica y profesional, me he preparado intensamente para convertirme en un científico de datos competente y valioso. Actualmente, estoy enriqueciendo mis habilidades en herramientas avanzadas como Power BI y DAX, con el objetivo de ser un miembro crucial dentro de cualquier equipo de trabajo. Mi enfoque está en utilizar mis habilidades adquiridas en análisis de datos, filtración de datos, entrenamiento de modelos, y programación en Python y SQL, para facilitar la visualización y la comprensión de datos complejos. Mi meta es proporcionar soluciones claras y efectivas que simplifiquen y potencien la toma de decisiones basada en datos.
+👨‍💻 Data Scientist | 👷‍♂️ Electrical Engineer 
+Soy un científico de datos comprometido con la excelencia, dedicado a mejorar continuamente mis habilidades. Actualmente, estoy profundizando en gobernanza de datos y uso de la nube para gestionar mejor la calidad y seguridad de la información. También me familiarizado con herramientas como Power BI y DAX, enfocándome en la visualización y análisis de datos complejos. Con experiencia en Python, SQL, y entrenamiento de modelos, mi objetivo es ofrecer soluciones que optimicen la toma de decisiones basada en datos.
+
+🚀 Apasionado por el aprendizaje automático, big data y la visualización de datos  
+💡 Explorando nuevas tecnologías para transformar datos en decisiones 
+🎥 Muestro el funcionamiento mis Proyectos en [Youtube](https://www.youtube.com/@YerayMartinez-r7u)
+🌱 Siempre aprendiendo y adaptándome al cambio  
+🎯 Orientado a resultados y enfocado en la innovación  
 
 ## Habilidades
 ![](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=sql)
 ![](https://img.shields.io/badge/Machine_Learning-brightgreen?style=for-the-badge&logo=scikit-learn)
-![](https://img.shields.io/badge/Data_Analysis-yellow?style=for-the-badge&logo=dataiku)
+![](https://img.shields.io/badge/tensorflow-yellow?style=for-the-badge&logo=tensorflow)
+![](https://img.shields.io/badge/spacy-green?style=for-the-badge&logo=spacy)
+![](https://img.shields.io/badge/Data%20Science-yellow?style=for-the-badge&logo=dataiku)
 ![](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel)
 ![](https://img.shields.io/badge/DAX-lightgrey?style=for-the-badge&logo=powerbi)
+### Herramienta de Visualizacion 
 ![](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![](https://img.shields.io/badge/Seaborn-orange?style=for-the-badge&logo=seaborn)
+![](https://img.shields.io/badge/Matplotlib-green?style=for-the-badge&logo=matplotlib)
+
+
 
 ## Contacto
 Si estás interesado en trabajar conmigo o tienes alguna pregunta, no dudes en contactarme:<br>
