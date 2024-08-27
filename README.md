@@ -15,11 +15,11 @@ Soy un científico de datos comprometido con la excelencia, dedicado a mejorar c
 
 ## Habilidades
 ![](https://img.shields.io/badge/Data%20Science-yellow?style=for-the-badge&logo=dataiku)
-![](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=sql)
 ![](https://img.shields.io/badge/Machine_Learning-brightgreen?style=for-the-badge&logo=scikit-learn)
 ![](https://img.shields.io/badge/tensorflow-yellow?style=for-the-badge&logo=tensorflow)
-![](https://img.shields.io/badge/spacy-green?style=for-the-badge&logo=spacy)
+![](https://img.shields.io/badge/spacy-orange?style=for-the-badge&logo=spacy)
 ![](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel)
 ![](https://img.shields.io/badge/DAX-lightgrey?style=for-the-badge&logo=powerbi)
 ### Herramienta de Visualizacion 
@@ -30,8 +30,10 @@ Soy un científico de datos comprometido con la excelencia, dedicado a mejorar c
 
 
 ## Contacto
-Si estás interesado en trabajar conmigo o tienes alguna pregunta, no dudes en contactarme:<br>
+📧Si estás interesado en trabajar conmigo o tienes alguna pregunta, no dudes en contactarme👨‍💻:<br><br>
 ![](https://img.shields.io/badge/Email-yeraym21m%40gmail.com-lightgrey?style=for-the-badge&logo=gmail)
+![](https://img.shields.io/badge/Outlook-yerayM21M%40hotmail.com-lightgrey?style=for-the-badge&logo=hotmail)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
