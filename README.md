@@ -1,7 +1,7 @@
 <div align="center">
 <h1 aling="center"> Hola, soy <a href="https://www.linkedin.com/in/yeray-martinez-a35444248/"> Yeray Martinez Muñoz</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/7Kok4ad.png">
+<img src="https://i.imgur.com/ITzWwX3.jpeg">
 
 ## Sobre mí
 Desde mi formación académica y profesional, me he preparado intensamente para convertirme en un científico de datos competente y valioso. Actualmente, estoy enriqueciendo mis habilidades en herramientas avanzadas como Power BI y DAX, con el objetivo de ser un miembro crucial dentro de cualquier equipo de trabajo. Mi enfoque está en utilizar mis habilidades adquiridas en análisis de datos, filtración de datos, entrenamiento de modelos, y programación en Python y SQL, para facilitar la visualización y la comprensión de datos complejos. Mi meta es proporcionar soluciones claras y efectivas que simplifiquen y potencien la toma de decisiones basada en datos.
