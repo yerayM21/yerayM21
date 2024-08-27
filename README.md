@@ -7,7 +7,7 @@
 👨‍💻 Data Scientist | 👷‍♂️ Electrical Engineer <br>
 Soy un científico de datos comprometido con la excelencia, dedicado a mejorar continuamente mis habilidades. Actualmente, estoy profundizando en gobernanza de datos y uso de la nube para gestionar mejor la calidad y seguridad de la información. También me familiarizado con herramientas como Power BI y DAX, enfocándome en la visualización y análisis de datos complejos. Con experiencia en Python, SQL, y entrenamiento de modelos, mi objetivo es ofrecer soluciones que optimicen la toma de decisiones basada en datos.<br>
 
-🚀 Apasionado por el aprendizaje automático, big data y la visualización de datos
+🚀 Apasionado por el aprendizaje automático, big data y la visualización de datos<br>
 💡 Explorando nuevas tecnologías para transformar datos en decisiones<br> 
 🎥 Muestro el funcionamiento mis Proyectos en [Youtube](https://www.youtube.com/@YerayMartinez-r7u)<br>
 🌱 Siempre aprendiendo y adaptándome al cambio  
