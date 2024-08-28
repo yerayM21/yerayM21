@@ -34,6 +34,45 @@ Soy un científico de datos comprometido con la excelencia, dedicado a mejorar c
 ![](https://img.shields.io/badge/Email-yeraym21m%40gmail.com-lightgrey?style=for-the-badge&logo=gmail)
 ![](https://img.shields.io/badge/Outlook-yerayM21M%40hotmail.com-lightgrey?style=for-the-badge&logo=hotmail)
 
+## Proyectos Actuales
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Medidor Inteligente Funcionamiento de PLN</h3>
+<div aling="center">
+<a href="https://github.com/yerayM21/Medidor_inteligente_PLN" target="_blank"><img src="https://i.imgur.com/DaIxiAV.png" width="400" alt="Medidor Inteligente"</a>
+<br>
+<p>
+<a href="https://github.com/yerayM21/Medidor_inteligente_PLN" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-black?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.youtube.com/watch?v=wIY9vvbs2KM&t=1s" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-black?style=for-the-badge&color=white">
+</a>
+</p>
+<p>Proyecto en el cual ser desarrollo un sistema inteligente con uso <strong>PLN</strong>strong>para responder solicitudes del area electrica del hogar</p>
+</div>
+
+</td>
+
+<td width="50%">
+  <br>
+<h3 align="center">Reconocimiento Facial</h3>
+<div aling="center">
+<a href="https://github.com/yerayM21/Face_Recognition" target="_blank"><img src="https://i.imgur.com/GtVbIki.png" width="400" alt="Reconocimiento Facial"</a>
+<br>
+<p>
+<a href="https://github.com/yerayM21/Face_Recognition" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-black?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.youtube.com/watch?v=sTzS9YciNUI" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-black?style=for-the-badge&color=white">
+</a>
+</p>
+<p>Desarrollo un Interfaz Web con <strong>django</strong>, para facilitar el despligue de la imagen con el reconocmiento. se entreno <strong>modelos de clasificacion</strong>strong> para el reconocmiento de rostros.</p>
+</div>
+</tr>
+</table>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
