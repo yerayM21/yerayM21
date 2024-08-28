@@ -5,7 +5,7 @@
 
 ## Sobre mí
 👨‍💻 Data Scientist | 👷‍♂️ Electrical Engineer <br>
-Soy un científico de datos comprometido con la excelencia, dedicado a mejorar continuamente mis habilidades. Actualmente, estoy profundizando en gobernanza de datos y uso de la nube para gestionar mejor la calidad y seguridad de la información. También me familiarizado con herramientas como Power BI y DAX, enfocándome en la visualización y análisis de datos complejos. Con experiencia en Python, SQL, y entrenamiento de modelos, mi objetivo es ofrecer soluciones que optimicen la toma de decisiones basada en datos.<br>
+Soy Ingeniero Electrico con una especializacion en el area de científico de datos comprometido con la excelencia, dedicado a mejorar continuamente mis habilidades. Actualmente, estoy profundizando en gobernanza de datos y uso de la nube para gestionar mejor la calidad y seguridad de la información. También me familiarizado con herramientas como Power BI y DAX, enfocándome en la visualización y análisis de datos complejos. Con experiencia en Python(1yr), SQL, y entrenamiento de modelos, mi objetivo es ofrecer soluciones que optimicen la toma de decisiones basada en datos.<br>
 
 🚀 Apasionado por el aprendizaje automático, big data y la visualización de datos<br>
 💡 Explorando nuevas tecnologías para transformar datos en decisiones<br> 
