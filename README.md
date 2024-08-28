@@ -14,8 +14,7 @@ Soy Ingeniero Electrico con una especializacion en el area de científico de dat
 🎯 Orientado a resultados y enfocado en la innovación<br>  
 
 ## Habilidades
-![](https://img.shields.io/badge/Data%20Science-yellow?style=for-the-badge&logo=dataiku)
-![](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/python-green?style=flat-square&logo=python)
 ![](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=sql)
 ![](https://img.shields.io/badge/Machine_Learning-brightgreen?style=for-the-badge&logo=scikit-learn)
 ![](https://img.shields.io/badge/tensorflow-yellow?style=for-the-badge&logo=tensorflow)
