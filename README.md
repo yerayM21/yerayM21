@@ -1,7 +1,7 @@
 <div align="center">
 <h1 aling="center"> Hola, soy <a href="https://www.linkedin.com/in/yeray-martinez-a35444248/"> Yeray Martinez Muñoz</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/M5Ma1uy.png">
+<img src="https://i.imgur.com/AE6eYxd.png">
 
 ## Sobre mí
 👨‍💻 Data Scientist | 👷‍♂️ Electrical Engineer <br>
