@@ -50,7 +50,7 @@ Soy un científico de datos comprometido con la excelencia, dedicado a mejorar c
 <img src="https://img.shields.io/badge/-Youtube-black?style=for-the-badge&color=white">
 </a>
 </p>
-<p>Proyecto en el cual ser desarrollo un sistema inteligente con uso <strong>PLN</strong>strong>para responder solicitudes del area electrica del hogar</p>
+<p>Proyecto en el cual ser desarrollo un sistema inteligente con uso <strong> PLN </strong>para responder solicitudes del area electrica del hogar</p>
 </div>
 
 </td>
@@ -59,7 +59,7 @@ Soy un científico de datos comprometido con la excelencia, dedicado a mejorar c
   <br>
 <h3 align="center">Reconocimiento Facial</h3>
 <div aling="center">
-<a href="https://github.com/yerayM21/Face_Recognition" target="_blank"><img src="https://i.imgur.com/GtVbIki.png" width="400" alt="Reconocimiento Facial"</a>
+<a href="https://github.com/yerayM21/Face_Recognition" target="_blank"><img src="https://i.imgur.com/Jp3FB2d.png" width="400" alt="Reconocimiento Facial"</a>
 <br>
 <p>
 <a href="https://github.com/yerayM21/Face_Recognition" target="_blank">
@@ -69,7 +69,7 @@ Soy un científico de datos comprometido con la excelencia, dedicado a mejorar c
 <img src="https://img.shields.io/badge/-Youtube-black?style=for-the-badge&color=white">
 </a>
 </p>
-<p>Desarrollo un Interfaz Web con <strong>django</strong>, para facilitar el despligue de la imagen con el reconocmiento. se entreno <strong>modelos de clasificacion</strong>strong> para el reconocmiento de rostros.</p>
+<p>Desarrollo un Interfaz Web con <strong> django </strong>, para facilitar el despligue de la imagen con el reconocmiento. se entreno <strong> modelos de clasificacion </strong> para el reconocmiento de rostros.</p>
 </div>
 </tr>
 </table>
