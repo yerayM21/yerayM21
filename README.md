@@ -47,7 +47,7 @@ Soy un científico de datos comprometido con la excelencia, dedicado a mejorar c
 <img src="https://img.shields.io/badge/C%C3%93DIGO-black?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.youtube.com/watch?v=wIY9vvbs2KM&t=1s" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-black?style=for-the-badge&color=white">
+<img src="https://img.shields.io/badge/-Youtube-white?style=for-the-badge&color=red">
 </a>
 </p>
 <p>Proyecto en el cual ser desarrollo un sistema inteligente con uso <strong> PLN </strong>para responder solicitudes del area electrica del hogar</p>
@@ -66,7 +66,7 @@ Soy un científico de datos comprometido con la excelencia, dedicado a mejorar c
 <img src="https://img.shields.io/badge/C%C3%93DIGO-black?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.youtube.com/watch?v=sTzS9YciNUI" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-black?style=for-the-badge&color=white">
+<img src="https://img.shields.io/badge/-Youtube-white?style=for-the-badge&color=red">
 </a>
 </p>
 <p>Desarrollo un Interfaz Web con <strong> django </strong>, para facilitar el despligue de la imagen con el reconocmiento. se entreno <strong> modelos de clasificacion </strong> para el reconocmiento de rostros.</p>
