@@ -71,7 +71,6 @@ Soy Ingeniero Electrico con una especializacion en el area de científico de dat
 </p>
 <p>Desarrollo un Interfaz Web con <strong> django </strong>, para facilitar el despligue de la imagen con el reconocmiento. se entreno <strong> modelos de clasificacion </strong> para el reconocmiento de rostros.</p>
 </div>
-</tr>
 </table>
 
 ### ⚙️ &nbsp;GitHub Analytics
