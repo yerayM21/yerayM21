@@ -41,7 +41,6 @@ Soy Ingeniero Electrico con una especializacion en el area de científico de dat
 <h3 align="center">Medidor Inteligente Funcionamiento de PLN</h3>
 <div aling="center">
 <a href="https://github.com/yerayM21/Medidor_inteligente_PLN" target="_blank"><img src="https://i.imgur.com/DaIxiAV.png" width="400" alt="Medidor Inteligente"</a>
-<br>
 <p>
 <a href="https://github.com/yerayM21/Medidor_inteligente_PLN" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-black?style=for-the-badge&logo=github&logoColor=white">
@@ -56,12 +55,12 @@ Soy Ingeniero Electrico con una especializacion en el area de científico de dat
 </td>
 
 <td width="50%">
-  <br>
+               <br>
 <h3 align="center">Reconocimiento Facial</h3>
 <div aling="center">
 <a href="https://github.com/yerayM21/Face_Recognition" target="_blank"><img src="https://i.imgur.com/Jp3FB2d.png" width="400" alt="Reconocimiento Facial"</a>
 <br>
-<p aling="center">
+<p>
 <a href="https://github.com/yerayM21/Face_Recognition" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-black?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -72,6 +71,7 @@ Soy Ingeniero Electrico con una especializacion en el area de científico de dat
 <p>Desarrollo un Interfaz Web con <strong> django </strong>, para facilitar el despligue de la imagen con el reconocmiento. se entreno <strong> modelos de clasificacion </strong> para el reconocmiento de rostros.</p>
 </div>
 </table>
+</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
