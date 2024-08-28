@@ -14,17 +14,17 @@ Soy Ingeniero Electrico con una especializacion en el area de científico de dat
 🎯 Orientado a resultados y enfocado en la innovación<br>  
 
 ## Habilidades
-![](https://img.shields.io/badge/python-green?style=flat-square&logo=python)
-![](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=sql)
-![](https://img.shields.io/badge/Machine_Learning-brightgreen?style=for-the-badge&logo=scikit-learn)
-![](https://img.shields.io/badge/tensorflow-yellow?style=for-the-badge&logo=tensorflow)
-![](https://img.shields.io/badge/spacy-orange?style=for-the-badge&logo=spacy)
-![](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel)
-![](https://img.shields.io/badge/DAX-lightgrey?style=for-the-badge&logo=powerbi)
+![](https://img.shields.io/badge/PYTHON-green?style=flat-square&logo=python)
+![](https://img.shields.io/badge/SQL-orange?style=flat-square&logo=sql)
+![](https://img.shields.io/badge/scikit%20learn-green?style=flat-square&logo=scikit-learn)
+![](https://img.shields.io/badge/tensorflow-yellow?style=flat-square&logo=tensorflow)
+![](https://img.shields.io/badge/spacy-orange?style=flat-square&logo=spacy)
+![](https://img.shields.io/badge/Excel-green?style=flat-square&logo=Excel)
+![](https://img.shields.io/badge/DAX-yellow?style=flat-square&logo=DAX)
 ### Herramienta de Visualizacion 
-![](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![](https://img.shields.io/badge/Seaborn-orange?style=for-the-badge&logo=seaborn)
-![](https://img.shields.io/badge/Matplotlib-green?style=for-the-badge&logo=matplotlib)
+![](https://img.shields.io/badge/PowerBI-yellow?style=flat-square&logo=PowerBI)
+![](https://img.shields.io/badge/SEABORN-orange?style=flat-square&logo=SEABORN)
+![](https://img.shields.io/badge/MATPLOTLIB-green?style=flat-square&logo=MATPLOTLIB)
 
 
 
