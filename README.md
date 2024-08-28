@@ -61,7 +61,7 @@ Soy Ingeniero Electrico con una especializacion en el area de científico de dat
 <div aling="center">
 <a href="https://github.com/yerayM21/Face_Recognition" target="_blank"><img src="https://i.imgur.com/Jp3FB2d.png" width="400" alt="Reconocimiento Facial"</a>
 <br>
-<p>
+<p aling="center">
 <a href="https://github.com/yerayM21/Face_Recognition" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-black?style=for-the-badge&logo=github&logoColor=white">
 </a>
