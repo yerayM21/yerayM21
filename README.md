@@ -16,9 +16,9 @@ Soy Ingeniero Electrico con una especializacion en el area de científico de dat
 ## Habilidades
 ![](https://img.shields.io/badge/PYTHON-green?style=flat-square&logo=python)
 ![](https://img.shields.io/badge/SQL-orange?style=flat-square&logo=sql)
-![](https://img.shields.io/badge/scikit%20learn-green?style=flat-square&logo=scikit-learn)
-![](https://img.shields.io/badge/tensorflow-yellow?style=flat-square&logo=tensorflow)
-![](https://img.shields.io/badge/spacy-orange?style=flat-square&logo=spacy)
+![](https://img.shields.io/badge/SCIKIT%20LEARN-green?style=flat-square&logo=scikit-learn)
+![](https://img.shields.io/badge/TENSORFLOW-yellow?style=flat-square&logo=tensorflow)
+![](https://img.shields.io/badge/SPACY-orange?style=flat-square&logo=spacy)
 ![](https://img.shields.io/badge/Excel-green?style=flat-square&logo=Excel)
 ![](https://img.shields.io/badge/DAX-yellow?style=flat-square&logo=DAX)
 ### Herramienta de Visualizacion 
